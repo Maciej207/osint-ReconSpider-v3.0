@@ -1,2 +1,21 @@
-# osint-ReconSpider-v3.0
-k
+# Instrukcja instalacji ReconSpider
+
+## Szybka instalacja (Linux/Mac)
+
+```bash
+# 1. Sklonuj repozytorium
+git clone https://github.com/Maciej207/reconspider.git
+cd reconspider
+
+# 2. (Opcjonalnie) Utwórz wirtualne środowisko
+python3 -m venv venv
+source venv/bin/activate
+
+# 3. Zainstaluj zależności
+pip install -r requirements.txt
+
+# 4. (Opcjonalnie) Zainstaluj wszystkie moduły
+pip install -r requirements-full.txt
+
+# 5. Uruchom
+python reconspider_pro.py example.com
