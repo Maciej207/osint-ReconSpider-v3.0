@@ -1,0 +1,17 @@
+
+## 📄 requirements.txt
+
+```txt
+# Podstawowe wymagania dla ReconSpider
+requests>=2.25.0
+dnspython>=2.1.0
+python-whois>=0.7.3
+colorama>=0.4.4
+
+# Opcjonalne moduły (odkomentuj jeśli potrzebujesz)
+# shodan>=1.28.0
+# waybackpy>=3.0.6
+# selenium>=4.0.0
+# webdriver-manager>=3.5.0
+# fpdf>=1.7.2
+# geoip2>=4.6.0
