@@ -4,7 +4,7 @@
 
 ```bash
 # 1. Sklonuj repozytorium
-git clone https://github.com/Maciej207/reconspider.git
+git clone https://github.com/Maciej207/osint-ReconSpider-v3.0.git
 cd reconspider
 
 # 2. (Opcjonalnie) Utwórz wirtualne środowisko
