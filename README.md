@@ -1,6 +1,6 @@
 # Instrukcja instalacji ReconSpider
 
-## Szybka instalacja (Linux/Mac)
+## Szybka instalacja linux
 
 ```bash
 # 1. Sklonuj repozytorium
@@ -18,4 +18,4 @@ pip install -r requirements.txt
 pip install -r requirements-full.txt
 
 # 5. Uruchom
-python reconspider_pro.py example.com
+python reconspider_pro1.py example.com
